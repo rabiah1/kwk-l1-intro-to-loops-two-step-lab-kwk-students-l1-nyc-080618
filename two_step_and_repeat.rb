@@ -24,7 +24,7 @@ end
 
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
-  steps = 4 
+  steps = 0 
   loop do 
   puts steps + 1 
   if steps % 2 == 0 
